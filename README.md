@@ -1,6 +1,6 @@
 # Guess
 
-This Python based project can be considered a "guessing game." In it, when running the program,
+This Python based project can be considered a "guessing game." When running the program,
 the user will be prompted with which category they want to choose from (for example: animals,
 cities, sports teams, etc.).
 
